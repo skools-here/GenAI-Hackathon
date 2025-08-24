@@ -16,5 +16,10 @@ Before getting started, make sure you have the following installed on your syste
 
 Clone the repository to your local machine:
 
+Use these commands to clone the repo locally then install dependencies and to run project locally:-
 ```bash
-git clone https://github.com/skools-here/GenAI-Hackathon.git
+git clone https://github.com/skools-here/GenAI-Hackathon.
+
+npm install
+
+npm run dev
