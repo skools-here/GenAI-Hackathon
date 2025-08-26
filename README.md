@@ -20,6 +20,8 @@ Use these commands to clone the repo locally then install dependencies and to ru
 ```bash
 git clone https://github.com/skools-here/GenAI-Hackathon.
 
+cd GenAI-Hackathon
+
 npm install
 
 npm run dev
